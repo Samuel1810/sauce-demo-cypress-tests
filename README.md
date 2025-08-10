@@ -39,7 +39,7 @@ This project contains End-to-End automated tests using [Cypress](https://www.cyp
     - **Sample Checkout Data:**
     - First Name: `Samuel`
     - Last Name: `Costa`
-    - Postal Code: `1234-123`
+    - Postal Code: `12341234`
 
 ## How to Run
 
