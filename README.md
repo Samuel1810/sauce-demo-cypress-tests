@@ -19,8 +19,10 @@ and a representative negative checkout scenario.
 - **Clear, readable E2E tests:** straightforward structure prioritizing clarity over abstraction.
 - **Fast execution:** the entire suite can be executed locally in minutes.
 
-> **Evidence:** All scenarios are implemented as Cypress specs under `cypress/e2e/`.
-> 📌 **Coverage Map:** see [`docs/coverage/coverage-map.md`](docs/coverage/coverage-map.md)
+  > **Evidence:** All scenarios are implemented as Cypress specs under `cypress/e2e/`.
+  
+  > 📌 **Coverage Map:** see [`docs/coverage/coverage-map.md`](docs/coverage/coverage-map.md)
+
 
 ## Out of scope (intentional)
 To keep the project focused and realistic, the following were intentionally left out:
