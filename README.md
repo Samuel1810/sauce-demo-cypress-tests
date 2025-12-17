@@ -98,8 +98,10 @@ cd sauce-demo-cypress-tests
 ### 2. Install dependencies
 
 ```bash
-npm install
+npm ci
 ```
+
+> `npm ci` is recommended to ensure a clean and reproducible install.
 
 ### 3. Open Cypress Test Runner (interactive)
 
