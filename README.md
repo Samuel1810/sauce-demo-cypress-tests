@@ -91,7 +91,7 @@ cypress.config.js
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/sauce-demo-cypress-tests.git
+git clone https://github.com/Samuel1810/sauce-demo-cypress-tests.git
 cd sauce-demo-cypress-tests
 ```
 
